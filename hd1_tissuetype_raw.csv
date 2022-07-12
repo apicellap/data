@@ -1,0 +1,12 @@
+﻿Sample,tissue,target_gene,housekeeping_gene,target_mean_ct,hk_mean_ct
+1,flower,HD1,ubiquitin,30.34,30.6
+5,flower,HD1,ubiquitin,30.13,30.8
+9,flower,HD1,ubiquitin,30.71,31
+13,flower,HD1,ubiquitin,29.62,30.3
+2,leaf,HD1,ubiquitin,33.63,31.5
+6,leaf,HD1,ubiquitin,33.61,31.6
+10,leaf,HD1,ubiquitin,34.62,31.4
+14,leaf,HD1,ubiquitin,34.31,31.3
+4,root,HD1,ubiquitin,35.6,31.4
+12,root,HD1,ubiquitin,36.33,33
+16,root,HD1,ubiquitin,37,32

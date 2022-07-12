@@ -1,0 +1,4 @@
+gene,tissue,exp,sd_m,sd_p
+HDG5,flower,1,0.05,0.06
+HDG5,nt_flower,0.882145122,0.03,0.04
+HDG5,trichome,0.014019703,0.000001,0.000001

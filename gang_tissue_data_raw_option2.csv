@@ -1,0 +1,10 @@
+Sample,tissue,target_gene,housekeeping_gene,target_mean_ct,hk_mean_ct
+1,flower,hdg5,ub,25.8,23.53
+2,flower,hdg5,ub,30.88,28.8
+3,flower,hdg5,ub,31.06,29.05
+1,trichomeless,hdg5,ub,24.64,22.35
+2,trichomeless,hdg5,ub,24.71,22.33
+3,trichomeless,hdg5,ub,24.25,22.01
+1,trichome,hdg5,ub,24.27,22.04
+2,trichome,hdg5,ub,33.12,22.05
+3,trichome,hdg5,ub,33.48,22.02
